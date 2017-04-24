@@ -1,0 +1,11 @@
+total 44
+-rw-r--r-- 1 srini srini 8980 Feb 25 14:52 examples.desktop
+drwxr-xr-x 2 srini srini 4096 Feb 25 15:07 Videos
+drwxr-xr-x 2 srini srini 4096 Feb 25 15:07 Templates
+drwxr-xr-x 2 srini srini 4096 Feb 25 15:07 Public
+drwxr-xr-x 2 srini srini 4096 Feb 25 15:07 Pictures
+drwxr-xr-x 2 srini srini 4096 Feb 25 15:07 Music
+drwxr-xr-x 2 srini srini 4096 Feb 25 15:07 Documents
+drwxr-xr-x 2 srini srini 4096 Feb 25 15:07 Desktop
+drwxr-xr-x 4 srini srini 4096 Mar 24 17:21 Downloads
+-rw-rw-r-- 1 srini srini    0 Apr 24 20:52 mylist.txt
